@@ -1,6 +1,5 @@
-- Hi, I'm @Fokycnuk099
-- 👀 I am interested in frontend development
-- 💞️ I am looking for opportunities for cooperation and follow-up work
+- Hi, I'm Vladislav.
+- 👀 I am interested in frontend development.
 - 📫 How to contact me foxhaund99@gmail.com
 - Telegram: https://t.me/foxhound099
 <!---
